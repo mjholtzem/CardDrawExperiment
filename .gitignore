@@ -71,3 +71,11 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/CardGame/.utmp
+/CardGame/Library
+/CardGame/WebBuild
+/CardGame/UserSettings
+CardGame/WebBuild.zip
+/CardGame/obj
+/CardGame/Logs
+CardGame/.vsconfig
